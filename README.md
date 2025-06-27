@@ -11,38 +11,26 @@ Join a technical team in Switzerland where I can apply my experience with OpenSh
 
 ## EXPERIENCE
 
-- **J. Safra Sarasin**  
-*Senior DevOps Engineer*  
-**Aug 2024 – Present**  
+- **Senior DevOps Engineer** J. Safra Sarasin
+*Aug 2024 – Present*  
 `OpenShift` `Argo CD` `Grafana`
-
-- **Red Hat**  
-*Consultant*  
-**May 2022 – Jul 2024**  
+- **Consultant** Red Hat  
+*May 2022 – Jul 2024*  
 `OpenShift` `Service Mesh` `Argo CD` `GitOps`
-
-- **Red Hat**  
-*Associate Consultant*  
-**Apr 2018 – Jul 2020**  
+- **Associate Consultant** Red Hat  
+*Apr 2018 – Jul 2020*  
 `OpenShift` `Ansible Automation` `AMQ` `CI/CD`
-
-- **Holcim**  
-*Middleware Administrator*  
-**Jan 2017 – Nov 2017**  
+- **Middleware Administrator** Holcim   
+*Jan 2017 – Nov 2017*  
 `RHEL` `JBoss EAP` `Middleware` `Linux Admin` `Enterprise IT` `Support`
 
 ## EDUCATION
 
-- **Master in Professional Development**  
-University of Alcalá  
+- **Master in Professional Development** University of Alcalá  
 *Feb 2017 – Feb 2018*
-
-- **Advanced Android Development**  
-Samsung Tech Institute  
+- **Advanced Android Development** Samsung Tech Institute  
 *Jun 2016 – Dec 2016*
-
-- **Degree in Aerospace Engineering**  
-Technical University of Madrid  
+- **Degree in Aerospace Engineering** Technical University of Madrid  
 *Sep 2010 – Jul 2016*
 
 ## CERTIFICATIONS
