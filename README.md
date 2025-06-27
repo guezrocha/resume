@@ -11,30 +11,34 @@ Kubernetes-native infrastructure enthusiast with strong Red Hat roots, focused o
 
 ## EXPERIENCE
 
-**Senior DevOps Engineer:** J. Safra Sarasin  
+**Senior DevOps Engineer**  
+J. Safra Sarasin  
 Aug 2024 - Present  
-`OpenShift` `ArgoCD` `Grafana` `Avaloq`  
 
-**Consultant:** Red Hat  
+**Consultant**  
+Red Hat  
 May 2022 - Jul 2024  
-`OpenShift` `Istia` `Argo CD`  
 
-**Associate Consultant:** Red Hat  
+**Associate Consultant**  
+Red Hat  
 Apr 2018 - Jul 2020  
-`OpenShift` `Ansible` `ActiveMQ` `Jenkins`  
 
-**Middleware Administrator:** Holcim   
+**Middleware Administrator**  
+Holcim   
 Jan 2017 - Nov 2017  
 
 ## EDUCATION
 
-**Master in Professional Development:** University of Alcala  
+**Master in Professional Development**  
+University of Alcala  
 Feb 2017 - Feb 2018  
 
-**Advanced Android Development:** Samsung Tech Institute  
+**Advanced Android Development**  
+Samsung Tech Institute  
 Jun 2016 - Dec 2016  
 
-**Degree in Aerospace Engineering:** Technical University of Madrid  
+**Degree in Aerospace Engineering**  
+Technical University of Madrid  
 Sep 2010 - Jul 2016  
 
 ## CERTIFICATIONS
@@ -46,4 +50,4 @@ Red Hat Specialist in OpenShift Administration
 
 ## SKILLS
 
-`OpenShift` `Kubernetes` `ArgoCD` `Helm` `Kustomize` `Grafana` `Prometheus` `Istio` `Kiali` `Jaeger` `ActiveMQ` `Linux` `Ansible` `Kafka` `Nexus` `HAProxy` `Jenkins` `JBoss`
+OpenShift, Kubernetes, ArgoCD, Helm, Kustomize, Grafana, Prometheus, Istio, Kiali, Jaeger, ActiveMQ, Linux, Ansible, Kafka, Nexus, HAProxy, Jenkins, JBoss
