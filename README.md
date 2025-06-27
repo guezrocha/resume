@@ -19,10 +19,10 @@ Join a technical team in Switzerland where I can apply my experience with OpenSh
 `OpenShift` `Service Mesh` `Argo CD` `GitOps`
 - **Associate Consultant** Red Hat  
 *Apr 2018 – Jul 2020*  
-`OpenShift` `Ansible Automation` `AMQ` `CI/CD`
+`OpenShift` `Ansible` `ActiveMQ` `Jenkins`
 - **Middleware Administrator** Holcim   
 *Jan 2017 – Nov 2017*  
-`RHEL` `JBoss EAP` `Middleware` `Linux Admin` `Enterprise IT` `Support`
+`Linux` `JBoss`
 
 ## EDUCATION
 
