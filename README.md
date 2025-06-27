@@ -11,7 +11,7 @@ Join a technical team in Switzerland where I can apply my experience with OpenSh
 
 ## EXPERIENCE
 
-- **Senior DevOps Engineer** J. Safra Sarasin
+- **Senior DevOps Engineer** J. Safra Sarasin  
 *Aug 2024 – Present*  
 `OpenShift` `Argo CD` `Grafana`
 - **Consultant** Red Hat  
