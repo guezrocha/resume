@@ -12,16 +12,16 @@ Kubernetes-native infrastructure enthusiast with strong Red Hat roots, focused o
 ## EXPERIENCE
 
 **Senior DevOps Engineer** @ J. Safra Sarasin Aug 2024 - Present
-- Integrate instant payments with Avaloq and GitOps tools. 
+- Integrated instant payments with Avaloq using GitOps tooling.   
   
 **Consultant** @ Red Hat May 2022 - Jul 2024 
-- Led service mesh work for major Spanish bank.  
+- Led Service Mesh implementation for a major Spanish bank.  
 
 **Associate Consultant** @ Red Hat Apr 2018 - Jul 2020  
-- Delivered AMQ and OpenShift to 20 top clients
+- Delivered AMQ and OpenShift solutions to 20+ top clients.
 
 **Middleware Administrator** @ Holcim Jan 2017 - Nov 2017  
-- Installed JBoss for new country deployments.
+- Deployed JBoss environments for new country rollouts.
 
 ## EDUCATION
 
