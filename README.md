@@ -11,13 +11,13 @@ Kubernetes-native infrastructure enthusiast with strong Red Hat roots, focused o
 
 ## EXPERIENCE
 
-**Senior DevOps Engineer**
+**Senior DevOps Engineer**  
 J. Safra Sarasin  
 *Aug 2024 - Present*  
   
 **Consultant**  
-Red Hat May 
-*2022 - Jul 2024*  
+Red Hat  
+*May 2022 - Jul 2024*  
 
 **Associate Consultant**  
 Red Hat Apr  
