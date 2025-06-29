@@ -29,7 +29,7 @@ Holcim
 
 ## EDUCATION
 
-**Master in Professional Development**
+**Master in Professional Development**  
 University of Alcala  
 *Feb 2017 - Feb 2018*  
 
