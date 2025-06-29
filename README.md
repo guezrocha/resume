@@ -20,11 +20,11 @@ Red Hat
 *May 2022 - Jul 2024*  
 
 **Associate Consultant**  
-Red Hat Apr  
-*2018 - Jul 2020*  
+Red Hat  
+*Apr 2018 - Jul 2020*  
 
-**Middleware Administrator**
-Holcim
+**Middleware Administrator**  
+Holcim  
 *Jan 2017 - Nov 2017*  
 
 ## EDUCATION
