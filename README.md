@@ -11,10 +11,10 @@ Kubernetes-native infrastructure enthusiast with strong Red Hat roots, focused o
 
 ## EXPERIENCE
 
-**Senior DevOps Engineer** @ J. Safra Sarasin Aug 2024 - Present
+**Senior DevOps Engineer** @ J. Safra Sarasin Aug 2024 - Present  
 Integrated instant payments with Avaloq using GitOps tooling.   
   
-**Consultant** @ Red Hat May 2022 - Jul 2024 
+**Consultant** @ Red Hat May 2022 - Jul 2024  
 Led Service Mesh implementation for a major Spanish bank.  
 
 **Associate Consultant** @ Red Hat Apr 2018 - Jul 2020  
@@ -26,7 +26,9 @@ Deployed JBoss environments for new country rollouts.
 ## EDUCATION
 
 **Master in Professional Development** @ University of Alcala Feb 2017 - Feb 2018  
+
 **Advanced Android Development** @ Samsung Tech Institute Jun 2016 - Dec 2016  
+
 **Degree in Aerospace Engineering** @ Technical University of Madrid Sep 2010 - Jul 2016  
 
 ## CERTIFICATIONS
