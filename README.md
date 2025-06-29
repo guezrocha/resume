@@ -11,35 +11,25 @@ Kubernetes-native infrastructure enthusiast with strong Red Hat roots, focused o
 
 ## EXPERIENCE
 
-**Senior DevOps Engineer**  
-J. Safra Sarasin  
-Aug 2024 - Present  
+**Senior DevOps Engineer** @ J. Safra Sarasin Aug 2024 - Present
+- Integrate instant payments with Avaloq and GitOps tools. 
+  
+**Consultant** @ Red Hat May 2022 - Jul 2024 
+- Led service mesh work for major Spanish bank.  
 
-**Consultant**  
-Red Hat  
-May 2022 - Jul 2024  
+**Associate Consultant** @ Red Hat Apr 2018 - Jul 2020  
+- Delivered AMQ and OpenShift to 20 top clients
 
-**Associate Consultant**  
-Red Hat  
-Apr 2018 - Jul 2020  
-
-**Middleware Administrator**  
-Holcim   
-Jan 2017 - Nov 2017  
+**Middleware Administrator** @ Holcim Jan 2017 - Nov 2017  
+- Installed JBoss for new country deployments.
 
 ## EDUCATION
 
-**Master in Professional Development**  
-University of Alcala  
-Feb 2017 - Feb 2018  
+**Master in Professional Development** @ University of Alcala Feb 2017 - Feb 2018  
 
-**Advanced Android Development**  
-Samsung Tech Institute  
-Jun 2016 - Dec 2016  
+**Advanced Android Development** @ Samsung Tech Institute Jun 2016 - Dec 2016  
 
-**Degree in Aerospace Engineering**  
-Technical University of Madrid  
-Sep 2010 - Jul 2016  
+**Degree in Aerospace Engineering** @ Technical University of Madrid Sep 2010 - Jul 2016  
 
 ## CERTIFICATIONS
 
@@ -50,4 +40,4 @@ Red Hat Specialist in OpenShift Administration
 
 ## SKILLS
 
-`OpenShift` `Kubernetes` `ArgoCD` `Helm` `Kustomize` `Grafana` `Prometheus` `Istio` `Kiali` `Jaeger` `ActiveMQ` `Linux` `Ansible` `Kafka` `Nexus` `HAProxy` `Jenkins` `JBoss`
+`OpenShift` `Kubernetes` `ArgoCD` `Helm` `Kustomize` `Grafana` `Prometheus` `Istio` `Kiali` `Jaeger` `ActiveMQ` `Linux` `Bash` `Podman` `Docker` `Ansible` `Kafka` `Nexus` `HAProxy` `Jenkins` `JBoss`
