@@ -1,11 +1,8 @@
 # FRANCISCO RODRIGUEZ ROCHA
 
 **Email:** guezrocha@gmail.com  
-
 **Phone:** +41 782408540  
-
 **Location:** Basel, Switzerland  
-
 **Languages:** Spanish, English, Italian  
 
 ## SUMMARY
@@ -14,34 +11,41 @@ Kubernetes-native infrastructure enthusiast with strong Red Hat roots, focused o
 
 ## EXPERIENCE
 
-**Senior DevOps Engineer** @ J. Safra Sarasin Aug 2024 - Present  
-Integrated instant payments with Avaloq using GitOps tooling.   
+**Senior DevOps Engineer**
+J. Safra Sarasin  
+*Aug 2024 - Present*  
   
-**Consultant** @ Red Hat May 2022 - Jul 2024  
-Led Service Mesh implementation for a major Spanish bank.  
+**Consultant**  
+Red Hat May 
+*2022 - Jul 2024*  
 
-**Associate Consultant** @ Red Hat Apr 2018 - Jul 2020  
-Delivered AMQ and OpenShift solutions to 20+ top clients.
+**Associate Consultant**  
+Red Hat Apr  
+*2018 - Jul 2020*  
 
-**Middleware Administrator** @ Holcim Jan 2017 - Nov 2017  
-Deployed JBoss environments for new country rollouts.
+**Middleware Administrator**
+Holcim
+*Jan 2017 - Nov 2017*  
 
 ## EDUCATION
 
-**Master in Professional Development** @ University of Alcala Feb 2017 - Feb 2018  
+**Master in Professional Development**
+University of Alcala  
+*Feb 2017 - Feb 2018*  
 
-**Advanced Android Development** @ Samsung Tech Institute Jun 2016 - Dec 2016  
+**Advanced Android Development**  
+Samsung Tech Institute  
+*Jun 2016 - Dec 2016*  
 
-**Degree in Aerospace Engineering** @ Technical University of Madrid Sep 2010 - Jul 2016  
+**Degree in Aerospace Engineering**  
+Technical University of Madrid  
+*Sep 2010 - Jul 2016*  
 
 ## CERTIFICATIONS
 
 Red Hat Certified Architect  
-
 Red Hat Certified Engineer  
-
 Red Hat Certified System Administrator  
-
 Red Hat Specialist in OpenShift Administration  
 
 ## SKILLS
