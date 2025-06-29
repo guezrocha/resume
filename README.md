@@ -1,8 +1,11 @@
 # FRANCISCO RODRIGUEZ ROCHA
 
 **Email:** guezrocha@gmail.com  
+
 **Phone:** +41 782408540  
+
 **Location:** Basel, Switzerland  
+
 **Languages:** Spanish, English, Italian  
 
 ## SUMMARY
