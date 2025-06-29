@@ -34,8 +34,11 @@ Deployed JBoss environments for new country rollouts.
 ## CERTIFICATIONS
 
 Red Hat Certified Architect  
+
 Red Hat Certified Engineer  
+
 Red Hat Certified System Administrator  
+
 Red Hat Specialist in OpenShift Administration  
 
 ## SKILLS
