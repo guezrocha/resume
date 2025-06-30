@@ -51,9 +51,6 @@ Red Hat Specialist in OpenShift Administration
 
 OpenShift, Kubernetes, Operators, Linux, Argo CD, Helm, Kustomize, Podman, Docker, Ansible, Bash, Istio, Kiali, Jaeger, Grafana, Prometheus, ActiveMQ, HAProxy, Kafka, Nexus, Jenkins, JBoss
 
-## Languages
+## LANGUAGES
 
-Spanish
-English
-Italian
-French
+Spanish, English, Italian, Polish, French
