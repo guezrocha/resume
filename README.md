@@ -50,4 +50,4 @@ Red Hat Specialist in OpenShift Administration
 
 ## SKILLS
 
-`OpenShift`, `Kubernetes`, `ArgoCD`, `Helm`, `Kustomize`, `Operators`, `Grafana`, `Prometheus`, `Istio`, `Kiali`, `Jaeger`, `ActiveMQ`, `Linux`, `Bash`, `Podman`, `Docker`, `Ansible`, `Kafka`, `Nexus`, `HAProxy`, `Jenkins`, `JBoss`
+OpenShift, Kubernetes, Operators, Linux, Argo CD, Helm, Kustomize, Podman, Docker, Ansible, Bash, Istio, Kiali, Jaeger, Grafana, Prometheus, ActiveMQ, HAProxy, Kafka, Nexus, Jenkins, JBoss
