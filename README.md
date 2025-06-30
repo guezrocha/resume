@@ -1,7 +1,7 @@
 # FRANCISCO RODRIGUEZ ROCHA
 
 **Email:** guezrocha@gmail.com  
-**Phone:** <a href="tel:+41782408540">+41782408540</a>  
+**Phone:** [asdf](tel:+41782408540)    
 **Location:** Basel, Switzerland  
 
 ## SUMMARY
