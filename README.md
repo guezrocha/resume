@@ -2,7 +2,7 @@
 
 **Email:** guezrocha@gmail.com  
 **Phone:** [+41 78 240 85 40](https://www.google.com/)    
-**Location:** Basel, Switzerland  
+**Location:** [Basel, Switzerland](https://www.openstreetmap.org/search?query=Basel)  
 
 ## SUMMARY
 
