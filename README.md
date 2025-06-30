@@ -1,9 +1,8 @@
 # FRANCISCO RODRIGUEZ ROCHA
 
-**Email** guezrocha@gmail.com  
-**Phone** +41 78 240 85 40  
-**Location** Basel, Switzerland  
-**Languages** Spanish, English, Italian  
+**Email:** guezrocha@gmail.com  
+**Phone:** +41 78 240 85 40  
+**Location:** Basel, Switzerland  
 
 ## SUMMARY
 
@@ -51,3 +50,10 @@ Red Hat Specialist in OpenShift Administration
 ## SKILLS
 
 OpenShift, Kubernetes, Operators, Linux, Argo CD, Helm, Kustomize, Podman, Docker, Ansible, Bash, Istio, Kiali, Jaeger, Grafana, Prometheus, ActiveMQ, HAProxy, Kafka, Nexus, Jenkins, JBoss
+
+## Languages
+
+Spanish
+English
+Italian
+French
