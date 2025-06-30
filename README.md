@@ -1,7 +1,7 @@
 # FRANCISCO RODRIGUEZ ROCHA
 
 **Email:** guezrocha@gmail.com  
-**Phone:** [+41 78 240 85 40](https://www.google.com/)    
+**Phone:** [+41 78 240 85 40](https://www.google.com/?q=%2B41+78+240+85+40)  
 **Location:** [Basel, Switzerland](https://www.openstreetmap.org/search?query=Basel)  
 
 ## SUMMARY
