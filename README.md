@@ -53,4 +53,4 @@ OpenShift, Kubernetes, Operators, Linux, Argo CD, Helm, Kustomize, Podman, Docke
 
 ## LANGUAGES
 
-Spanish, English, Italian, French, Polish
+Spanish (Native), English (C2), Italian (B1), French (A2)
